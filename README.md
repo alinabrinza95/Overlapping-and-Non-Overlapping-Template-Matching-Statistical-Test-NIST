@@ -12,4 +12,4 @@ non-overlapping.py =>
   The target string is generate din the function create_target_regex.
   When running the script, the user is asked to enter the regex expression for entering the regex of the target_string.
   That regex is written before "STEP 1"
-  Enter that regex and then see if the sequence is considered to be random or not.
+  Enter that regex and then see if the sequence is considered to be random or not. 
