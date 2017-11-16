@@ -69,4 +69,4 @@ def create_target_regex(m):
 target_string=create_target_regex(10)
 print "The target string generated is: "+str(target_string[0])
 print "The regex for the target string is: "+str(target_string[1])
-generate_split_compute_overlapping(968,1032,5,10, pow(10,6),target_string[0])
+#generate_split_compute_overlapping(968,1032,5,10, pow(10,6),target_string[0])
