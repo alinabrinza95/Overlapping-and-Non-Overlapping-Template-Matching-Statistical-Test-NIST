@@ -1,5 +1,5 @@
-# Overlapping-and-Non-Overlapping-Template-Matching-Statistical-Test-NIST
-Overlapping and Non-Overlapping Template Matching Statistical Test NIST
+# Overlapping-and-Non-Overlapping-Template-Matching-Statistical-Test-NIST SP800-22
+Overlapping and Non-Overlapping Template Matching Statistical Test NIST SP800-22
 Both non-overlapping.py and overlapping.py were writen using Python v.2.
 non-overlapping.py => 
   The number of independent blocks is 90.
