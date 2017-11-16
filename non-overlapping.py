@@ -42,4 +42,4 @@ def generate_split_compute_nonoverlapping(N,m):
             print "STOP:    The sequence is non-random in non-overlapping"
         else:
             print"STOP:    The sequence is random in non-overlapping "
-generate_split_compute_nonoverlapping(90,10)
+#generate_split_compute_nonoverlapping(90,10)
